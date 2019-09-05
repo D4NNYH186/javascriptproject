@@ -29,10 +29,12 @@
 // }
 // filmCheck()
 
-let number = 50
-let currentNumber = 1;
-while (currentNumber != number){
-    console.log (currentNumber);
-    currentNumber = (Math.floor(Math.random() * 50) +1);
-} 
-console.log (currentNumber);
+// let number = 50
+// let currentNumber = 1;
+// while (currentNumber != number){
+//     console.log (currentNumber);
+//     currentNumber = (Math.floor(Math.random() * 50) +1);
+// } 
+// console.log (currentNumber);
+
+//comment
